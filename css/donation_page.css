@@ -1,0 +1,27 @@
+.donation_page {
+	padding-top: 200px;
+}
+
+.delver {
+	float: left;
+	padding: 20px 20px 20px 160px;
+	z-index: -2;
+}
+
+.why {
+	float: left;
+}
+
+.why_donate {
+	padding-top: 200px;
+}
+
+@media(min-height 1px) {
+	.delver {
+		clear: both;
+	}
+
+	.why {
+		clear: both;
+	}
+}
