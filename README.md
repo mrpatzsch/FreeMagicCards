@@ -1,26 +1,18 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+FREE MAGIC CARDS .com
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+Every day, all over this country, magic cards are being thrown away.  When people draft (open packs and build decks) or just straight up open packs, they inevitably accrue more than enough of some commons, maybe uncommons.  
 
-## Getting Started
+FreeMagicCards.com serves as an exchange for magic cards between people who want to give them away and people who would like to have them.  
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+There are two ways I want to be able to deliver these cards.  
+Shipping - within the U.S., I will have certain size/price packages that I will work out with the Post Office.  I’m considering taking a percentage of the “shipping fees” as a source of income.  
+Drop Off / Pick Up - working with local stores or at individuals’ locations people can pick up cards
+This is basically like a craigslist for magic cards, but I want to keep it simple.  
+location
+must have city and zipcode
+amount and some basic details of what the cards are
+I will also want to populate a database with all the magic stores in the United States.  
 
-## Bugs and Issues
+The website will also have links to magic formats that use only commons and/or uncommons.  There will also be a blog about “Card of the Week” or something.  
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+It has been suggested that I partner up with a non-profit to legitimize it and offer tax write-offs for people who donate.
